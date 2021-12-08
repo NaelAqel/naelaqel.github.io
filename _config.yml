@@ -1,0 +1,13 @@
+title: Nael Aqel
+logo: /assets/img/11.jpg
+description: Welcome to my Portfolio Page.  
+HOME  
+PROJECTS
+<details>
+<summery>PROJECTS DURING STUDYING</summery>
+IBM Data Science Certificate  
+Datacamp Data Scientist with Python Certificate  
+</details>
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
