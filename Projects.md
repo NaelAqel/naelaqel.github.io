@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-<section>
+<section></section>
 # Comming Soon ...
-</section>
+
