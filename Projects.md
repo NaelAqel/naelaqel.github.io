@@ -1,4 +1,4 @@
 ---
-layout: Projects
+layout: default
 ---
 # Comming Soon ...
