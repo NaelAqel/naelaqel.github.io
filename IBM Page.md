@@ -87,3 +87,21 @@ See the full <a target='_blank' href='https://github.com/NaelAqel/IBM_Data_Scien
   <li><a target='_blank' href=''>Practice Assignment</a></li>
   <li><a target='_blank' href=''>Final Assignment</a></li>
 </details>  
+
+<details>
+  <summary>Machine Learning with Python Course</summary>
+  
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/01%20Simple%20Linear%20Regression.ipynb'>Simple Linear Regression</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/02%20Multiple%20Linear%20Regression.ipynb'>Multiple Linear Regression</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/03%20Polynomial%20Regression.ipynb'>Polynomial Regression</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/04%20Non-linear%20Regression.ipynb'>Non-linear Regression</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/05%20K-Nearest%20Neighbours.ipynb'>K-Nearest Neighbours</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/06%20Decision%20Trees.ipynb'>Decision Trees</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/07%20Logistic%20Regression.ipynb'>Logistic Regression</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/08%20SVM%20%28Support%20Vector%20Machines%29.ipynb'>SVM (Support Vector Machines)</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/09%20k-Means%20Clustering.ipynb'>k-Means Clustering</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/10%20Hierarchical%20Agglomerative%20Clustering.ipynb'>Hierarchical Agglomerative Clustering</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/12%20Content-based%20Recommendation%20Systems.ipynb'>Content-based Recommendation Systems</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/13%20Collaborative%20Filtering%20on%20Movies.ipynb'>Collaborative Filtering on Movies</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/09%20Machine%20Learning%20with%20Python/14%20Final%20Assignment%20.ipynb'>Final Assignment</a></li>
+</details>  
