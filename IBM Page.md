@@ -60,3 +60,14 @@ See the full <a target='_blank' href='https://github.com/NaelAqel/IBM_Data_Scien
   <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/06%20Database%20%26%20SQL%20for%20Data%20Science%20with%20Python/06%20Final%20Assignment.ipynb'>Final Assignment</a></li>
 </details>  
 
+
+<details>
+  <summary>Data Analysis with Pyhton Course</summary>
+  
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/01%20Importing%20Datasets.ipynb'>Importing Datasets</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/02%20Data%20Wrangling.ipynb'>Data Wrangling</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/03%20Exploratory%20Data%20Analysis.ipynb'>Exploratory Data Analysis</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/04%20Model%20Development.ipynb'>Model Development</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/05%20Model%20Evaluation%20and%20Refinement.ipynb'>Model Evaluation and Refinement</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/06%20Final%20Assignment%20-%20House_Sales_in_King_Count_US.ipynb'>Final Assignment - House Sales in King Count US</a></li>
+</details>
