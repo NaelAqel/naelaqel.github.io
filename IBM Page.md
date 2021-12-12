@@ -70,4 +70,20 @@ See the full <a target='_blank' href='https://github.com/NaelAqel/IBM_Data_Scien
   <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/04%20Model%20Development.ipynb'>Model Development</a></li>
   <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/05%20Model%20Evaluation%20and%20Refinement.ipynb'>Model Evaluation and Refinement</a></li>
   <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/06%20Final%20Assignment%20-%20House_Sales_in_King_Count_US.ipynb'>Final Assignment - House Sales in King Count US</a></li>
-</details>
+</details>  
+  
+<details>
+  <summary>Data Visualization with Pyhton Course</summary>
+  
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/08%20Data%20Visualization%20with%20Pyhton/01%20Introduction%20to%20Matplotlib%20and%20Line%20Plots.ipynb'>Introduction to Matplotlib and Line Plots</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/08%20Data%20Visualization%20with%20Pyhton/02%20Basic%20Visualization%20Tools%20%28Area%2C%20Histograms%2C%20an.ipynb'>Basic Visualization Tools (Area, Histograms, and Bar Charts)</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/08%20Data%20Visualization%20with%20Pyhton/03%20Specialized%20Visualization%20Tools%20%28Pie%20Charts%2C%20Bo.ipynb'>Specialized Visualization Tools (Pie Charts, Box , Scatter, and Bubble Plots)</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/08%20Data%20Visualization%20with%20Pyhton/04%20Advanced%20Visualization%20Tools%20%28Waffle%20Charts%2C%20Wo.ipynb'>Advanced Visualization Tools (Waffle Charts, Word Clouds, and Regression Plots)</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/08%20Data%20Visualization%20with%20Pyhton/05%20Visualizing%20Geospatial%20Data.ipynb'>Visualizing Geospatial Data</a></li>
+  <li><a target='_blank' href=''>Plotly Basics - Scatter, Line, Bar, Bubble, Histogram, Pie, and Sunburst</a></li>
+  <li><a target='_blank' href=''>Dash basics - HTML and Core Components</a></li>
+  <li><a target='_blank' href=''>Add Interactivity - User Input and Callbacks</a></li>
+  <li><a target='_blank' href=''>Flight Delay Time Statistics Dashboard</a></li>
+  <li><a target='_blank' href=''>Practice Assignment</a></li>
+  <li><a target='_blank' href=''>Final Assignment</a></li>
+</details>  
