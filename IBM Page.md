@@ -4,7 +4,7 @@ layout: default
 <section1></section1>  
 
 <h4>IBM Data Science Certificate</h4>  
-<p>Here I share all labs and projects I did through my studying for <b>IBM Data Science Certificate,</b> you can learn more <a target='_blank 'href='https://www.coursera.org/professional-certificates/ibm-data-science'>here.</a><br>Also you can see my full <a target='_blank' href='https://github.com/NaelAqel/IBM_Data_Science_Professional_Certificate'>github respiratory</a></p>
+<p>Here I share all labs and projects I did through my studying for <b>IBM Data Science Certificate,</b> you can learn more <a target='_blank'  href='https://www.coursera.org/professional-certificates/ibm-data-science'>here.</a><br>Also you can see my full <a target='_blank'  href='https://github.com/NaelAqel/IBM_Data_Science_Professional_Certificate'>github respiratory</a></p>
 
 <details>
   <summary>Data Science Methodology Course</summary>
