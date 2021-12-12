@@ -4,7 +4,7 @@ layout: default
 <section1></section1>  
 
 ## IBM Data Science Certificate  
-See in <a target='_blank' href='https://github.com/NaelAqel/IBM_Data_Science_Professional_Certificate'>github</a>
+See the full <a target='_blank' href='https://github.com/NaelAqel/IBM_Data_Science_Professional_Certificate'>github respiratory</a>
 
 <details>
   <summary>Data Science Methodology Course</summary>
@@ -39,4 +39,12 @@ See in <a target='_blank' href='https://github.com/NaelAqel/IBM_Data_Science_Pro
   <li><a href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/19%20Access%20REST%20APIs%20%26%20Request%20HTTP.ipynb'>Access REST APIs and Request HTTP</a></li>
   <li><a href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/20%20Webscraping.ipynb'>Webscraping</a></li>
   <li><a href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/21%20Working%20with%20different%20file%20formats.ipynb'>Working with different file formats</a></li>
+</details>  
+
+<details>
+  <summary>Python Project for Data Science Course</summary>
+  
+  <li><a href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/05%20Python%20Project%20for%20Data%20Science/01%20Extracting%20Stock%20Data%20Using%20Python%20Library.ipynb'>Extracting Stock Data Using Python Library</a></li>
+  <li><a href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/05%20Python%20Project%20for%20Data%20Science/02%20Extracting%20Stock%20Data%20Using%20a%20Web%20Scraping.ipynb'>Extracting Stock Data Using a Web Scraping</a></li>
+  <li><a href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/05%20Python%20Project%20for%20Data%20Science/03%20Final%20Assignment.ipynb'>Final Assignment</a></li>
 </details>
