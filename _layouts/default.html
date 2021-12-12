@@ -23,18 +23,13 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <nav>
-          <ul>
-            <li><a href="./index.html">Home</a></li>
-            <li><a href="./Projects.html">Projects</a></li>
-            <li><a>Projects During Studying</a></li>
-            <ul>
+        <details><summary><a href="./index.html">Home</a></summary></details>      
+        <details><summary><a href="./Projects.html">Projects</a></summary></details>  
+        <details><summary><a>Projects During Studying</a></summary>
+          
               <li><a href="./IBM Page.html">IBM Data Science Certificate</a></li>
-              <li><a href="./Datacamp.html">Datacamp Data Scientist with Python Certificate</a></li>
-            </ul>
-            <li><a href="./Certificates.html">Certificates</a></li>
-          </ul>
-        </nav>
+              <li><a href="./Datacamp.html">Datacamp Data Scientist with Python Certificate</a></details>  
+        <details><summary><a href="./Certificates.html">Certificates</a></summary></details>  
 
       </header>
       <section>
