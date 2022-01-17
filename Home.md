@@ -2,9 +2,9 @@
 layout: default
 ---
 <section1></section1>
-<h1>Welcome to my page</h1>
+# Welcome to my page
 
-<p>I worked in contracting companies as an electrical engineer in a different types of projects for six years. As a part of my work, I earn analytical skills in dealing with data (cost estimation, quantity surveying, payment preparation, statistical analysis for labors' progress).
+I worked in contracting companies as an electrical engineer in a different types of projects for six years. As a part of my work, I earn analytical skills in dealing with data (cost estimation, quantity surveying, payment preparation, statistical analysis for labors' progress).
 
 Recently I have decided to switch gears from applied engineering to data science. And to complete this move, I have enrolled and finished the **"IBM Data Science Professional Certificate"** path that consists of ten courses.
 
@@ -23,4 +23,3 @@ I am looking to join an organization as an **internship** or **entry-level (data
   - Supervised: (Simple, Multiple, Linear, Non-Linear, Polynomial, and Logistic) Regression, K-Nearest Neighbors, Support Vector Machines, and Decision tree.  
   - Unsupervised: K-Means, Hierarchical Agglomerative, and DBSCAN.  
   - Deep Learning: Neural Networks.
-</p>  
