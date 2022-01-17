@@ -4,7 +4,7 @@ layout: default
 <section1></section1>
 # About Me
 
-I garduated from the University of Jordan as Mechatronics, I worked in contracting companies as an electrical engineer in a different types of projects for six years. As a part of my work, I earn analytical skills in dealing with data (cost estimation, quantity surveying, payment preparation, statistical analysis for labors' progress).
+I graduated from the University of Jordan as Mechatronics Engineer, I worked in contracting companies as an electrical engineer in a different types of projects for six years. As a part of my work, I earn analytical skills in dealing with data (cost estimation, quantity surveying, payment preparation, statistical analysis for labors' progress).
 
 Recently I have decided to switch gears from applied engineering to data science. And to complete this move, I have enrolled and finished the **"IBM Data Science Professional Certificate"** path that consists of ten courses.
 
