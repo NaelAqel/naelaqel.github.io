@@ -2,7 +2,7 @@
 layout: default
 ---
 <section1></section1>
-# Welcome to my page
+# About Me  
 
 I worked in contracting companies as an electrical engineer in a different types of projects for six years. As a part of my work, I earn analytical skills in dealing with data (cost estimation, quantity surveying, payment preparation, statistical analysis for labors' progress).
 
