@@ -64,7 +64,7 @@ layout: default
 <details>
   <summary>Data Analysis with Pyhton Course</summary>
   
-  <li><a target='_blank' href='shorturl.at/nADFJ'>Importing Datasets</a></li>
+  <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/84b1c8a6070a8926a84c76c59d3b1a9b1c8d5906/07%20Data%20Analysis%20with%20Pyhton/01%20Importing%20Datasets.ipynb'>Importing Datasets</a></li>
   <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/02%20Data%20Wrangling.ipynb'>Data Wrangling</a></li>
   <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/03%20Exploratory%20Data%20Analysis.ipynb'>Exploratory Data Analysis</a></li>
   <li><a target='_blank' href='https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/a37f6b8d20935b549fc2c01d6cfd0897dd81dc35/07%20Data%20Analysis%20with%20Pyhton/04%20Model%20Development.ipynb'>Model Development</a></li>
