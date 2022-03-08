@@ -23,17 +23,13 @@ layout: default
 
   <li><a target='_blank'  href='https://nbviewer.org/github/NaelAqel/Datacamp_Projects/blob/f35cee43fefac6d054d6799a1d66bcaabe96f3d6/Comparing%20Search%20Interest%20with%20Google%20Trends%20-%20Guided/notebook.ipynb'>Comparing Search Interest with Google Trends - Guided</a></li>
 
-  <li><a target='_blank'  href='https://nbviewer.org/github/NaelAqel/Datacamp_Projects/blob/f35cee43fefac6d054d6799a1d66bcaabe96f3d6/Comparing%20Search%20Interest%20with%20Google%20Trends%20-%20Unguided/notebook.ipynb'>Comparing Search Interest with Google Trends - Unguided</a></li>
-
   <li><a target='_blank'  href='https://app.datacamp.com/workspace/w/764c76df-d2b7-424e-ba3f-46f96204df91'>Dr. Semmelweis and the Discovery of Handwashing</a></li>
 
   <li><a target='_blank'  href='https://app.datacamp.com/workspace/w/6090ab1e-5fe7-4148-bbc0-9e4a10e4e656'>Exploring the Bitcoin Cryptocurrency Market</a></li>
 
+  <li><a target='_blank'  href='https://app.datacamp.com/workspace/w/4910cb0f-364b-4a6b-a509-df4a6d464fe1'>Exploring the History of Lego - Guided</a></li>
+  
   <li><a target='_blank'  href='https://nbviewer.org/github/NaelAqel/Datacamp_Projects/blob/f35cee43fefac6d054d6799a1d66bcaabe96f3d6/Exploring%20the%20Evolution%20of%20Lego%20-%20Unguided/notebook.ipynb'>Exploring the Evolution of Lego - Unguided</a></li>
-
-  <li><a target='_blank'  href='https://app.datacamp.com/workspace/w/4910cb0f-364b-4a6b-a509-df4a6d464fe1'>Exploring the History of Lego</a></li>
-
-  <li><a target='_blank'  href='https://nbviewer.org/github/NaelAqel/Datacamp_Projects/blob/f35cee43fefac6d054d6799a1d66bcaabe96f3d6/Exploring%20the%20History%20of%20Lego/notebook.ipynb'>Exploring the History of Lego - Guided</a></li>
 
   <li><a target='_blank'  href='https://nbviewer.org/github/NaelAqel/Datacamp_Projects/blob/f35cee43fefac6d054d6799a1d66bcaabe96f3d6/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb'>Exploring the NYC Airbnb Market</a></li>
 
