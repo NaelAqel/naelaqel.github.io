@@ -39,7 +39,7 @@ layout: default
 
   <li><a target='_blank'  href='https://app.datacamp.com/workspace/w/945bcf6f-7350-4454-bf57-8824bed329cc'>Investigating Netflix Movies and Guest Stars in The Office - Unguided</a></li>
 
-  <li><a target='_blank'  href='https://nbviewer.org/github/NaelAqel/Datacamp_Projects/blob/f35cee43fefac6d054d6799a1d66bcaabe96f3d6/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats/B%20Testing%20with%20Cookie%20Cats/notebook.ipynb'>Mobile Games A/B Testing with Cookie Cats</a></li>
+  <li><a target='_blank'  href='https://nbviewer.org/github/NaelAqel/Datacamp_Projects/blob/0ca89ab5172e284988d760e092a584676dfcceb1/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats/notebook.ipynb'>Mobile Games A/B Testing with Cookie Cats</a></li>
 
   <li><a target='_blank'  href='https://app.datacamp.com/workspace/w/2e814a20-a41e-44fd-90c1-5606714fd9f4'>Predicting Credit Card Approvals</a></li>
 
