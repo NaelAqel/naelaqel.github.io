@@ -6,10 +6,10 @@ layout: default
 <h1>Welcome to Projects</h1>  
 <p>Here I share sample of data science projects I did, feel free to review and give me your feedback :)</p>
 
-<h3>Clustring of Electricity Rates in US</h3>
+<h3>Clustering of Electricity Rates in US</h3>
 <ul>
   <li left>Description: Starting from this <a target='_blank'  href='https://www.kaggle.com/pseudoproton/electricity-utility-rates?select=electricity_utility_rates.csv'>dataset</a>, which contains (Commertial, Industrial, and Residential) electricty rates in the US based on (Zip Code,  Utility Provider, and Service Type), I cleaned and analyzed this dataset, extracted new features, gave scores to each record, made a clustering model, and made a geo-visualiz clusters.</li> 
-  <li left>Project link: <a target='_blank'  href='https://www.kaggle.com/naelaqel/clustring-of-electricity-rates-in-us?kernelSessionId=90015817'>https://www.kaggle.com/naelaqel/clustring-of-electricity-rates-in-us?kernelSessionId=90015817</a></li>
+  <li left>Project link: <a target='_blank'  href='https://www.kaggle.com/naelaqel/clustering-of-electricity-rates-in-us?kernelSessionId=90081263'>https://www.kaggle.com/naelaqel/clustering-of-electricity-rates-in-us?kernelSessionId=90081263</a></li>
 </ul>
 
 <h3>Analyzing Customer Segments for a Marketing Campaign</h3>
