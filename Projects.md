@@ -14,12 +14,12 @@ layout: default
 
 <h3>Analyzing Customer Segments for a Marketing Campaign</h3>
 <ul>
-  <li left>Description: This project is a datacamp competition, to read more about this competition click <a target='_blank'  href='https://app.datacamp.com/learn/competitions/crowdfunding-marketing-campaign'>here</a>.</li> 
+  <li left>Description: This project is a datacamp competition, please be noted that only <b>Section 01</b> (see the project link down) was provided from datacamp.</li> 
   <li left>Project link: <a target='_blank'  href='https://app.datacamp.com/workspace/w/ebc31ee4-0229-406e-b8c3-e1ddfaab3488'>https://app.datacamp.com/workspace/w/ebc31ee4-0229-406e-b8c3-e1ddfaab3488</a></li> 
 </ul>
 
 <h3>Analyzing the Effectiveness of Test Preparation Courses</h3>
 <ul>
-  <li left>Description: This project is a datacamp competition, to read more about this competition click <a target='_blank'  href='https://app.datacamp.com/learn/competitions/student-exam-scores'>here</a>.</li> 
+  <li left>Description: This project is a datacamp competition, please be noted that only <b>Section 01</b> (see the project link down) was provided from datacamp.</li> 
   <li left>Project link: <a target='_blank'  href='https://app.datacamp.com/workspace/w/721e4f22-982b-47c3-8cde-7f588a5101b0'>https://app.datacamp.com/workspace/w/721e4f22-982b-47c3-8cde-7f588a5101b0</a></li> 
 </ul>
