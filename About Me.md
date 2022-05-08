@@ -4,22 +4,21 @@ layout: default
 <section1></section1>
 # About Me  
 
-I worked in contracting companies as an electrical engineer in a different types of projects for six years. As a part of my work, I earn analytical skills in dealing with data (cost estimation, quantity surveying, payment preparation, statistical analysis for labors' progress).
+A critical thinker and results-driven Engineer seek to make the transition from Construction to **Data Science**. Experience Electrical Site Engineer with over 6 years of extensive and diversified experience. Finished **"IBM Data Science Professional Certificate"**, then **"Data Scientist, Data Analyst, Python Programmer, and Machine Learning Scientist"** paths in **Datacamp**. Applied the knowledge to practical projects and started freelancing work in **Upwork**. Developed Analytical skills to achieve results with minimum effort. Exceptional communicator, skilled at developing highly productive relationships with vendors, clients/customers, and stakeholders. Demonstrate leadership in communicating business goals, program objectives, and processes for the functional business segment.  
 
-Recently I have decided to switch gears from applied engineering to data science. And to complete this move, I have enrolled and finished the **"IBM Data Science Professional Certificate"** path that consists of ten courses.
+Like to join an organization as a full time Data Scientist, ready to travel anywhere as will ready to work with **H-1B visa**. 
 
-The next step I have taken towards extending my experience is to join the **"datacamp"** website, which has courses and applied projects that utilize different data science and analysis sets of skills and tools.
-
-I am looking to join an organization as an **internship** or **entry-level (data analyst, data scientist)** to apply my knowledge in real-time projects. **I am ready to travel anywhere worldwide also I can work remotely**.
-
-**Skills:**  
-1- Math: Statistics, Probability.  
-2- Programming: Python.  
-3- Analytical Tools: SQL, Excel.  
-4- Data Visualization: Matplotlib, Seaborn, Folium, Plotly Dash.  
-5- Data Wrangling: Pandas, NumPy.  
-6- IDE: Jupyter Notebook, VSCode.  
-7- Machine Learning (scikit-learn):  
-  - Supervised: (Simple, Multiple, Linear, Non-Linear, Polynomial, and Logistic) Regression, K-Nearest Neighbors, Support Vector Machines, and Decision tree.  
-  - Unsupervised: K-Means, Hierarchical Agglomerative, and DBSCAN.  
-  - Deep Learning: Neural Networks.
+## Skills: 
+- Soft Skills: Confidence, Empathy, Active Listening, Open Mindedness, Collaboration, Negotiation, Curiosity, Self-Motivation, Ambition, Logical Thinking, Research, Presentation, Brainstorming, Decision Making, Mind Mapping, Inspiration, Integrity, Networking, Patience, Priority Management, Organization.
+- Math: Statistics, Probability, and Linear Algebra.
+- Programming Language: Python.
+- Analytical Tools: MS Excel, SQL, SQLAlchemy, and PostgreSQL.
+- Web Scaping: Requests, BeautifulSoup, and Scrapy.
+- Data Visualization: Matplotlib, Seaborn, Folium, Plotly and Plotly Dash.
+- Data Wrangling: Pandas, NumPy.
+- IDE: Jupyter Notebook, Visual Studio Code, and Google Colab.
+- Machine Learning (scikit-learn):  
+      o Supervised: (Simple, Multiple, Linear, Non-Linear, Polynomial, Rigid and Logistic) Regression, K-Nearest Neighbors, Support Vector Machines, Decision Tree, Random Forests, Gradient Boosting Regression, and XGBoost.  
+      o Unsupervised: K-Means, Hierarchical Agglomerative, and DBSCAN.  
+- Natural Language Processing: NLTK, spaCy, and NER.
+- Deep Learning: Neural Networks using Keras.
