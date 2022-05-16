@@ -12,7 +12,7 @@ Like to join an organization as a full time Data Scientist, ready to travel anyw
 - Soft Skills: Confidence, Empathy, Active Listening, Open Mindedness, Collaboration, Negotiation, Curiosity, Self-Motivation, Ambition, Logical Thinking, Research, Presentation, Brainstorming, Decision Making, Mind Mapping, Inspiration, Integrity, Networking, Patience, Priority Management, Organization.
 - Math: Statistics, Probability, and Linear Algebra.
 - Programming Language: Python.
-- Analytical Tools: MS Excel, SQL, SQLAlchemy, and PostgreSQL.
+- Analytical Tools: MS Excel, Power BI, SQL, SQLAlchemy, and PostgreSQL.
 - Web Scaping: Requests, BeautifulSoup, and Scrapy.
 - Data Visualization: Matplotlib, Seaborn, Folium, Plotly and Plotly Dash.
 - Data Wrangling: Pandas, NumPy.
