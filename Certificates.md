@@ -29,3 +29,8 @@ layout: default
 <img src='./assets/img/Data Scientist.png'>
 </a>
 
+## 5. Machine Learning Scientist with Python Track  
+<p> Certificate Description <a target="_blank" href='https://www.datacamp.com/tracks/machine-learning-scientist-with-python'>here</a></p>  
+<a target="_blank" href='https://www.datacamp.com/statement-of-accomplishment/track/adb73f53983c70c55859fbacb73ae6eff93d0297'>
+<img src='./assets/img/Machine Learning.png'>
+</a>
