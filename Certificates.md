@@ -12,7 +12,7 @@ layout: default
 </a>
 
 ## 2. Professional Data Analyst Certificate   
-<p> Certificate Description <a target="_blank" href='https://www.datacamp.com/tracks/data-analyst-with-python'>here</a></p>  
+<p> Certificate Description <a target="_blank" href='https://www.datacamp.com/certification/data-analyst'>here</a></p>  
 <a target="_blank" href='https://www.datacamp.com/certificate/DA0010241376566'>
 <img src='./assets/img/Data Analyst.png'>
 </a>
