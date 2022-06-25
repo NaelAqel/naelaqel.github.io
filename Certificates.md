@@ -17,16 +17,16 @@ layout: default
 <img src='./assets/img/Data Analyst.png'>
 </a>
 
-## 3. Python Programmer Track  
+## 3. Professional Data Scientist Certificate  
+<p> Certificate Description <a target="_blank" href='https://www.datacamp.com/certification/data-scientist'>here</a></p>  
+<a target="_blank" href='https://www.datacamp.com/certificate/DS0019089968217'>
+<img src='./assets/img/Data Scientist.png'>
+</a>
+
+## 4. Python Programmer Track  
 <p> Certificate Description <a target="_blank" href='https://www.datacamp.com/tracks/python-programmer'>here</a></p>  
 <a target="_blank" href='https://www.datacamp.com/statement-of-accomplishment/track/00fb3f26040a0361faec3b80fc498e542b20867e'>
 <img src='./assets/img/Python Programmer.png'>
-</a>
-
-## 4. Data Scientist with Python Track  
-<p> Certificate Description <a target="_blank" href='https://www.datacamp.com/tracks/data-scientist-with-python'>here</a></p>  
-<a target="_blank" href='https://www.datacamp.com/statement-of-accomplishment/track/e98e746084e4ced6156f976ddfd3870fe6af252b'>
-<img src='./assets/img/Data Scientist.png'>
 </a>
 
 ## 5. Machine Learning Scientist with Python Track  
