@@ -34,3 +34,9 @@ layout: default
 <a target="_blank" href='https://www.datacamp.com/statement-of-accomplishment/track/adb73f53983c70c55859fbacb73ae6eff93d0297'>
 <img src='./assets/img/Machine Learning.png'>
 </a>
+
+## 6. Data Analyst in Power BI Track  
+<p> Certificate Description <a target="_blank" href='https://www.datacamp.com/tracks/data-analyst-in-power-bi'>here</a></p>  
+<a target="_blank" href='https://www.datacamp.com/statement-of-accomplishment/track/2f325268a1a6676c901fe3d16da8bad8170256e9'>
+<img src='./assets/img/Power BI.png'>
+</a>
